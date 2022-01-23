@@ -103,6 +103,13 @@ else:
 
 
 ## OUTPUT:
+### (i)
+![a1](ans1.png)
+
+### (ii)
+![a1](./search_imgs/ans.png)
+
+### (iii)
 ![a1](./search_imgs/ans.png)
 
 
