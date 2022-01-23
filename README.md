@@ -36,7 +36,6 @@ if result >= 0:
     print("Element found at index: ",result)
 else:
     print("Element not found")
-    
 ```
 ii)	# Find the element in a list using Binary Search(Iterative Method).
 ```
@@ -107,10 +106,10 @@ else:
 ![a1](ans1.png)
 
 ### (ii)
-![a1](./search_imgs/ans.png)
+![a2](./search_imgs/ans.png)
 
 ### (iii)
-![a1](./search_imgs/ans.png)
+![a2](./search_imgs/ans.png)
 
 
 ## Result
