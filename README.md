@@ -96,10 +96,10 @@ else:
 ![g1](./search_imgs/1.png)
 
 ### (ii)
-![g2](./search_imgs/1.png)
+![g2](./search_imgs/2.png)
 
 ### (iii)
-![g3](./search_imgs/1.png)
+![g3](./search_imgs/3.png)
 
 
 ## OUTPUT:
