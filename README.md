@@ -96,10 +96,14 @@ else:
 ![g1](./search_imgs/1.png)
 
 ### (ii)
+![g2](./search_imgs/1.png)
 
 ### (iii)
+![g3](./search_imgs/1.png)
 
 
+## OUTPUT:
+![a1](./search_imgs/ans.png)
 
 
 ## Result
