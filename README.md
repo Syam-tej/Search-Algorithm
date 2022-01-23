@@ -92,8 +92,12 @@ else:
     print("Element not found")
 ```
 ## Sample Input and Output
+### (i)
+![g1](./search_imgs/1.png)
 
+### (ii)
 
+### (iii)
 
 
 
